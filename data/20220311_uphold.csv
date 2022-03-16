@@ -1,0 +1,27 @@
+Date,Destination,Destination Amount,Destination Currency,Fee Amount,Fee Currency,Id,Origin,Origin Amount,Origin Currency,Status,Type
+Wed Jan 12 2022 21:31:32 GMT+0000,bank,503.35,USD,,,6aeaf6a7-7e0a-45a4-b24b-8978036770c2,uphold,461.306556831498852161,BAT,completed,out
+Wed Jan 12 2022 21:30:58 GMT+0000,bank,179.13,USD,,,27146044-95c9-4a69-b48e-af1aeac0a2d3,uphold,0.00411043,BTC,completed,out
+Wed Jul 14 2021 00:54:53 GMT+0000,uphold,1,BAT,,,2e5905bb-8111-4c86-bcf7-72c14698cb0a,uphold,1,BAT,completed,out
+Fri Jul 09 2021 01:13:37 GMT+0000,uphold,0.3037240720706121,BAT,,,50c8f17c-6d0a-4d4d-a7a9-d0bdea42d7cc,uphold,0.3037240720706121,BAT,completed,in
+Thu Jun 10 2021 14:29:43 GMT+0000,uphold,0.2772668453889876,BAT,,,decacb11-bd98-4ebb-9b1b-2ece7171e1f7,uphold,0.2772668453889876,BAT,completed,in
+Thu Jun 10 2021 14:11:43 GMT+0000,uphold,1.1384250475383135,BAT,,,95e7ca56-1cca-4628-85ec-10e0dffec2bf,uphold,1.1384250475383135,BAT,completed,in
+Tue May 11 2021 02:31:47 GMT+0000,uphold,0.25,BAT,,,181f549c-a284-4067-9173-42ed70fffc47,uphold,0.25,BAT,completed,in
+Mon May 10 2021 21:59:42 GMT+0000,uphold,0.38,BAT,,,1c63de8b-c932-48e1-9bb4-7f135a2371cd,uphold,0.38,BAT,completed,in
+Mon May 10 2021 07:38:25 GMT+0000,uphold,0.275,BAT,,,e8f0a4b6-eee7-4cb1-a111-4d4bbe0ac061,uphold,0.275,BAT,completed,in
+Sun May 09 2021 19:35:05 GMT+0000,uphold,0.61,BAT,,,57bd81d4-d667-4f55-929c-a07fa4990ab7,uphold,0.61,BAT,completed,in
+Thu Apr 08 2021 11:52:18 GMT+0000,uphold,1.45,BAT,,,a2b49d59-929d-4a47-a036-a87af4fad583,uphold,1.45,BAT,completed,in
+Wed Apr 07 2021 19:34:17 GMT+0000,uphold,2.27,BAT,,,1bf25974-f43d-47fd-95df-df594cf8bf48,uphold,2.27,BAT,completed,in
+Tue Mar 09 2021 03:43:14 GMT+0000,uphold,2.49,BAT,,,e0387a3f-3fde-41d7-bf09-056748e885c2,uphold,2.49,BAT,completed,in
+Fri Mar 05 2021 20:57:17 GMT+0000,uphold,0.805,BAT,,,c0296eb7-f72e-4593-a341-4349056ff970,uphold,0.805,BAT,completed,in
+Tue Feb 09 2021 09:28:40 GMT+0000,uphold,2.715,BAT,,,b5ae4611-1c19-43f9-bfdb-6bb6773e5d84,uphold,2.715,BAT,completed,in
+Tue Feb 09 2021 08:22:35 GMT+0000,uphold,1.37,BAT,,,8776f2d9-63c4-423d-a478-59cf64e6d980,uphold,1.37,BAT,completed,in
+Sat Jan 09 2021 02:30:33 GMT+0000,uphold,6.175,BAT,,,0c5b3e3c-bc52-417b-91ec-abc53392302c,uphold,6.175,BAT,completed,in
+Fri Jan 08 2021 12:59:12 GMT+0000,uphold,3.03,BAT,,,6fc5cc9a-f685-4c04-bbe7-4d0158c97da5,uphold,3.03,BAT,completed,in
+Mon Dec 07 2020 18:05:38 GMT+0000,uphold,4.46,BAT,,,15e314db-0168-4b75-b103-67b47f9a0fbe,uphold,4.46,BAT,completed,in
+Mon Dec 07 2020 17:40:35 GMT+0000,uphold,1.29,BAT,,,be7491fb-844c-4b79-8ee3-d26d2c3f76f0,uphold,1.29,BAT,completed,in
+Sat Nov 07 2020 06:42:23 GMT+0000,uphold,3.46,BAT,,,b7f3b101-2808-4951-9009-1a5a7818f017,uphold,3.46,BAT,completed,in
+Sat Nov 07 2020 04:16:45 GMT+0000,uphold,2.335,BAT,,,136594e1-8223-4383-8e2c-2541c7927370,uphold,2.335,BAT,completed,in
+Wed Oct 21 2020 02:41:49 GMT+0000,uphold,0.00411043,BTC,,,b3ef7459-727c-4377-b864-7cfda2d6ec3a,bank,50,USD,completed,in
+Tue Oct 20 2020 19:32:08 GMT+0000,uphold,147.89776398,BAT,,,5ce360c8-5b5e-4d9c-ab27-09b901d20985,ethereum,147.89776398,BAT,completed,in
+Tue Oct 20 2020 19:29:16 GMT+0000,uphold,188.39391579,BAT,,,8eb7bf8b-f249-4704-9c73-347679509358,ethereum,188.39391579,BAT,completed,in
+Wed Oct 14 2020 16:47:29 GMT+0000,uphold,90.930461096500938961,BAT,1.808407946335306793,BAT,9ffa644d-f57b-4e07-b467-c9812d4209eb,bank,20,USD,completed,in
